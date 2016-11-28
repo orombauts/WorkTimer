@@ -1,0 +1,7 @@
+E:\Workspace\VisualStudio\LoginTime\LoginTime\obj\x86\Debug\LoginTime.Properties.Resources.resources
+E:\Workspace\VisualStudio\LoginTime\LoginTime\obj\x86\Debug\LoginTime.csproj.GenerateResource.Cache
+E:\Workspace\VisualStudio\LoginTime\LoginTime\bin\Debug\LoginTime.exe
+E:\Workspace\VisualStudio\LoginTime\LoginTime\bin\Debug\LoginTime.pdb
+E:\Workspace\VisualStudio\LoginTime\LoginTime\obj\x86\Debug\LoginTime.FormLoginTime.resources
+E:\Workspace\VisualStudio\LoginTime\LoginTime\obj\x86\Debug\LoginTime.exe
+E:\Workspace\VisualStudio\LoginTime\LoginTime\obj\x86\Debug\LoginTime.pdb
